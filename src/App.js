@@ -3,12 +3,9 @@ import api from './services/api';
 
 import {
   SafeAreaView,
-  View,
   FlatList,
-  Text,
   StatusBar,
   StyleSheet,
-  TouchableOpacity,
 } from "react-native";
 
 import Repository from './components/Repository';
